@@ -7,7 +7,7 @@ environment:
   sdk: ^3.5.0
 
 dependencies:
-  bloc: ^8.1.4
+  bloc: ^9.0.0
   
   cloud_firestore: ^5.6.1
   equatable: ^2.0.3
@@ -19,7 +19,7 @@ dependencies:
   firebase_storage: ^12.4.2
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.6
+  flutter_bloc: ^9.0.0
   flutter_colorpicker: ^1.1.0
   flutter_localizations:
     sdk: flutter
@@ -33,7 +33,7 @@ dependencies:
   json_annotation: ^4.9.0
 
 dev_dependencies:
-  bloc_test: ^9.1.7
+  bloc_test: ^10.0.0
   build_runner: ^2.4.14
   flutter_launcher_icons: ^0.14.3
   flutter_test:
