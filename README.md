@@ -1,10 +1,32 @@
 # Firebase Task App
 
 ----
+## Gif To App
+### SplashScreen
 ![SPLASH SCREEN](assets/gift/splash_screen.gif)
-
-
 ----
+### Add New Task
+![SPLASH SCREEN](assets/gift/add_new_task.gif)
+----
+### Modify Task
+![SPLASH SCREEN](assets/gift/modify_task.gif)
+----
+### Modify Task Private
+![SPLASH SCREEN](assets/gift/modify_task_private.gif)
+----
+### Delete Task
+![SPLASH SCREEN](assets/gift/delete_task.gif)
+----
+### See Private Task
+![SPLASH SCREEN](assets/gift/see_private_task.gif)
+----
+### Theme Dark
+![SPLASH SCREEN](assets/gift/theme_dark.gif)
+----
+### Change Lenguage
+![SPLASH SCREEN](assets/gift/change_lenguage.gif)
+----
+
 ![coverage][coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
