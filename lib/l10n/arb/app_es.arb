@@ -1,0 +1,234 @@
+{
+  "@@locale": "es",
+  "counterAppBarTitle": "Contador",
+  "@counterAppBarTitle": {
+    "description": ""
+  },
+  "loginPageDontHaveAccount": "¿No tienes una cuenta?",
+  "@loginPageDontHaveAccount": {
+    "description": ""
+  },
+  "loginPageSignUp": "Registrarse",
+  "@loginPageSignUp": {
+    "description": ""
+  },
+  "loginPageEmail": "Correo electrónico",
+  "@loginPageEmail": {
+    "description": ""
+  },
+  "loginPagePassword": "Contraseña",
+  "@loginPagePassword": {
+    "description": ""
+  },
+  "loginPageLogInWithSocialAccount": "Iniciar sesión con una cuenta social",
+  "@loginPageLogInWithSocialAccount": {
+    "description": ""
+  },
+  "loginPageRememberMe": "Recuérdame",
+  "@loginPageRememberMe": {
+    "description": ""
+  },
+  "loginPageForgotPassword": "¿Olvidaste tu contraseña?",
+  "@loginPageForgotPassword": {
+    "description": ""
+  },
+  "loginPageLogIn": "Iniciar sesión",
+  "@loginPageLogIn": {
+    "description": ""
+  },
+  "registerPageRepeatPassword": "Repetir contraseña",
+  "@registerPageRepeatPassword": {
+    "description": ""
+  },
+  "registerPageAlreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "@registerPageAlreadyHaveAccount": {
+    "description": ""
+  },
+  "registerPageEmailInUse": "Correo electrónico ya en uso",
+  "@registerPageEmailInUse": {
+    "description": ""
+  },
+  "registerPageSignUp": "Registrarse",
+  "@registerPageSignUp": {
+    "description": ""
+  },
+  "homePageTitle": "APP DE TAREAS",
+  "@homePageTitle": {
+    "description": ""
+  },
+  "settingsPageTitle": "Configuraciones",
+  "@settingsPageTitle": {
+    "description": ""
+  },
+  "settingsPageDartTheme": "Tema oscuro",
+  "@settingsPageDartTheme": {
+    "description": ""
+  },
+  "settingsPageChangeLenguage": "Idioma",
+  "@settingsPageChangeLenguage": {
+    "description": ""
+  },
+  "settingsPageLogOut": "Cerrar sesión",
+  "@settingsPageLogOut": {
+    "description": ""
+  },
+  "taskPageTitle": "TAREA PRIVADA",
+  "@taskPageTitle": {
+    "description": ""
+  },
+  "taskPageMessageTooltip": "Todas las tareas que veas serán totalmente privadas,\nlas demás se publicarán en la página de inicio\n donde cualquiera podrá verlas.",
+  "@taskPageMessageTooltip": {
+    "description": ""
+  },
+  "taskDetailsPageDialogPickAColor": "Elige un color",
+  "@taskDetailsPageDialogPickAColor": {
+    "description": ""
+  },
+  "taskDetailsPagePick": "Elegir",
+  "@taskDetailsPagePick": {
+    "description": ""
+  },
+  "taskDetailsPageConfirmChanges": "¿Quieres guardar los cambios?",
+  "@taskDetailsPageConfirmChanges": {
+    "description": ""
+  },
+  "taskDetailsPageDeleteTask": "¿Quieres ELIMINAR?",
+  "@taskDetailsPageDeleteTask": {
+    "description": ""
+  },
+  "taskDetailsPageCreateAT": "Creado: {date}",
+  "@taskDetailsPageCreateAT": {
+    "description": "",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageUpdateAT": "Actualizado: {date}",
+  "@taskDetailsPageUpdateAT": {
+    "description": "",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageButtonSaveChanges": "Guardar cambios",
+  "@taskDetailsPageButtonSaveChanges": {
+    "description": ""
+  },
+  "taskDetailsPageButtonBack": "Atrás",
+  "@taskDetailsPageButtonBack": {
+    "description": ""
+  },
+  "taskDetailsPageAuthor": "Autor: {author}",
+  "@taskDetailsPageAuthor": {
+    "description": "",
+    "placeholders": {
+      "author": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageState": "Estado: ",
+  "@taskDetailsPageState": {
+    "description": ""
+  },
+  "taskDetailsPageTitle": "Título",
+  "@taskDetailsPageTitle": {
+    "description": ""
+  },
+  "taskDetailsPageDescription": "Descripción",
+  "@taskDetailsPageDescription": {
+    "description": ""
+  },
+  "taskDetailsPageDetails": "Detalles",
+  "@taskDetailsPageDetails": {
+    "description": ""
+  },
+  "commonCancel": "Cancelar",
+  "@commonCancel": {
+    "description": ""
+  },
+  "commonConfirm": "Confirmar",
+  "@commonConfirm": {
+    "description": ""
+  },
+  "commonError": "Error",
+  "@commonError": {
+    "description": ""
+  },
+  "commonSomethingWentWrong": "Algo salió mal, por favor inténtalo de nuevo más tarde.",
+  "@commonSomethingWentWrong": {
+    "description": ""
+  },
+  "commonSuccess": "Éxito",
+  "@commonSuccess": {
+    "description": ""
+  },
+  "commonOk": "Ok",
+  "@commonOk": {
+    "description": ""
+  },
+  "commonAddNewTask": "Agregar nueva tarea",
+  "@commonAddNewTask": {
+    "description": ""
+  },
+  "commonCreateTask": "Crear tarea",
+  "@commonCreateTask": {
+    "description": ""
+  },
+  "commonUpdateTask": "Actualizar tarea",
+  "@commonUpdateTask": {
+    "description": ""
+  },
+  "commonColor": "Color: ",
+  "@commonColor": {
+    "description": ""
+  },
+  "commonThereAreNoTasks": "No hay tareas",
+  "@commonThereAreNoTasks": {
+    "description": ""
+  },
+  "commonSuccessToCreateTask": "¡Éxito! Tarea creada",
+  "@commonSuccessToCreateTask": {
+    "description": ""
+  },
+  "commonSuccessToUpdateTask": "¡Éxito! Tarea actualizada",
+  "@commonSuccessToUpdateTask": {
+    "description": ""
+  },
+  "commonSuccessToDeleteTask": "¡Éxito! Tarea eliminada",
+  "@commonSuccessToDeleteTask": {
+    "description": ""
+  },
+  "commonHome": "Inicio",
+  "@commonHome": {
+    "description": ""
+  },
+  "commonTasks": "Tareas",
+  "@commonTasks": {
+    "description": ""
+  },
+  "commonSettings": "Configuración",
+  "@commonSettings": {
+    "description": ""
+  },
+  "commonPublic": "Público",
+  "@commonPublic": {
+    "description": ""
+  },
+  "commonPrivate": "Privado",
+  "@commonPrivate": {
+    "description": ""
+  },
+  "commonPending": "Pendiente",
+  "@commonPending": {
+    "description": ""
+  },
+  "commonAreYouSure": "¿Estás seguro?",
+  "@commonAreYouSure": {
+    "description": ""
+  }
+}

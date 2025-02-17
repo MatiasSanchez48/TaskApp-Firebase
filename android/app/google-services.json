@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "523128838722",
+    "firebase_url": "https://task-app-f1886-default-rtdb.firebaseio.com",
+    "project_id": "task-app-f1886",
+    "storage_bucket": "task-app-f1886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:d4deaa3a3bda498104abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523128838722-tbpl67mqn4ammnk1g5a3ci1rpshc7pod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verygoodcore.firebase_task_app",
+            "certificate_hash": "547e697fa22441d158e85c26b3b93955b539a0a2"
+          }
+        },
+        {
+          "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523128838722-46kslfrhrh57qc4v3huni17b6tb16c8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.firebase-task-app.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:4e9cc7b9092bbdf504abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523128838722-fu5nrm4a0l1vgcd00f837tub6ccvgngb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verygoodcore.firebase_task_app.dev",
+            "certificate_hash": "547e697fa22441d158e85c26b3b93955b539a0a2"
+          }
+        },
+        {
+          "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523128838722-46kslfrhrh57qc4v3huni17b6tb16c8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.firebase-task-app.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:322e42fd9e139bbb04abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523128838722-d4nftn3u1cvrm6nh85b424c728090u0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verygoodcore.firebase_task_app.stg",
+            "certificate_hash": "547e697fa22441d158e85c26b3b93955b539a0a2"
+          }
+        },
+        {
+          "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523128838722-ivmlghj15tqqevhrijoq45l6q9s5uk9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523128838722-46kslfrhrh57qc4v3huni17b6tb16c8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.firebase-task-app.stg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

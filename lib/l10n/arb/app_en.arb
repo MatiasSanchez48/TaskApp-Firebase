@@ -1,0 +1,234 @@
+{
+  "@@locale": "en",
+  "counterAppBarTitle": "Counter",
+  "@counterAppBarTitle": {
+    "description": ""
+  },
+  "loginPageDontHaveAccount": "Don't have an account?",
+  "@loginPageDontHaveAccount": {
+    "description": ""
+  },
+  "loginPageSignUp": "Sign Up",
+  "@loginPageSignUp": {
+    "description": ""
+  },
+  "loginPageEmail": "E-mail",
+  "@loginPageEmail": {
+    "description": ""
+  },
+  "loginPagePassword": "Password",
+  "@loginPagePassword": {
+    "description": ""
+  },
+  "loginPageLogInWithSocialAccount": "Log in with social account",
+  "@loginPageLogInWithSocialAccount": {
+    "description": ""
+  },
+  "loginPageRememberMe": "Remember me",
+  "@loginPageRememberMe": {
+    "description": ""
+  },
+  "loginPageForgotPassword": "Forgot password?",
+  "@loginPageForgotPassword": {
+    "description": ""
+  },
+  "loginPageLogIn": "Log In",
+  "@loginPageLogIn": {
+    "description": ""
+  },
+  "registerPageRepeatPassword": "Repeat password",
+  "@registerPageRepeatPassword": {
+    "description": ""
+  },
+  "registerPageAlreadyHaveAccount": "Already have an account?",
+  "@registerPageAlreadyHaveAccount": {
+    "description": ""
+  },
+  "registerPageEmailInUse": "Email already in use",
+  "@registerPageEmailInUse": {
+    "description": ""
+  },
+  "registerPageSignUp": "Sign Up",
+  "@registerPageSignUp": {
+    "description": ""
+  },
+  "homePageTitle": "TASK APP",
+  "@homePageTitle": {
+    "description": ""
+  },
+  "settingsPageTitle": "Settings",
+  "@settingsPageTitle": {
+    "description": ""
+  },
+  "settingsPageDartTheme": "Dark Theme",
+  "@settingsPageDartTheme": {
+    "description": ""
+  },
+  "settingsPageChangeLenguage": "Lenguage",
+  "@settingsPageChangeLenguage": {
+    "description": ""
+  },
+  "settingsPageLogOut": "Log Out",
+  "@settingsPageLogOut": {
+    "description": ""
+  },
+  "taskPageTitle": "TASK PRIVATE",
+  "@taskPageTitle": {
+    "description": ""
+  },
+  "taskPageMessageTooltip": "All the tasks you see will be totally private,\nthe others will be published on the home page\n where anyone can see them.",
+  "@taskPageMessageTooltip": {
+    "description": ""
+  },
+  "taskDetailsPageDialogPickAColor": "Pick a color",
+  "@taskDetailsPageDialogPickAColor": {
+    "description": ""
+  },
+  "taskDetailsPagePick": "Pick",
+  "@taskDetailsPagePick": {
+    "description": ""
+  },
+  "taskDetailsPageConfirmChanges": "Do you want to save the changes?",
+  "@taskDetailsPageConfirmChanges": {
+    "description": ""
+  },
+  "taskDetailsPageDeleteTask": "Do you want to DELETE?",
+  "@taskDetailsPageDeleteTask": {
+    "description": ""
+  },
+  "taskDetailsPageCreateAT": "Created: {date}",
+  "@taskDetailsPageCreateAT": {
+    "description": "",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageUpdateAT": "Update: {date}",
+  "@taskDetailsPageUpdateAT": {
+    "description": "",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageButtonSaveChanges": "Save Changes",
+  "@taskDetailsPageButtonSaveChanges": {
+    "description": ""
+  },
+  "taskDetailsPageButtonBack": "Back",
+  "@taskDetailsPageButtonBack": {
+    "description": ""
+  },
+  "taskDetailsPageAuthor": "Author: {author}",
+  "@taskDetailsPageAuthor": {
+    "description": "",
+    "placeholders": {
+      "author": {
+        "type": "String"
+      }
+    }
+  },
+  "taskDetailsPageState": "State: ",
+  "@taskDetailsPageState": {
+    "description": ""
+  },
+  "taskDetailsPageTitle": "Title",
+  "@taskDetailsPageTitle": {
+    "description": ""
+  },
+  "taskDetailsPageDescription": "Description",
+  "@taskDetailsPageDescription": {
+    "description": ""
+  },
+  "taskDetailsPageDetails": "Details",
+  "@taskDetailsPageDetails": {
+    "description": ""
+  },
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "description": ""
+  },
+  "commonConfirm": "Confirm",
+  "@commonConfirm": {
+    "description": ""
+  },
+  "commonError": "Error",
+  "@commonError": {
+    "description": ""
+  },
+  "commonSomethingWentWrong": "Something went wrong, please try again later.",
+  "@commonSomethingWentWrong": {
+    "description": ""
+  },
+  "commonSuccess": "Success",
+  "@commonSuccess": {
+    "description": ""
+  },
+  "commonOk": "Ok",
+  "@commonOk": {
+    "description": ""
+  },
+  "commonAddNewTask": "Add New Task",
+  "@commonAddNewTask": {
+    "description": ""
+  },
+  "commonCreateTask": "Create Task",
+  "@commonCreateTask": {
+    "description": ""
+  },
+  "commonUpdateTask": "Update Task",
+  "@commonUpdateTask": {
+    "description": ""
+  },
+  "commonColor": "Color: ",
+  "@commonColor": {
+    "description": ""
+  },
+  "commonThereAreNoTasks": "There are no tasks",
+  "@commonThereAreNoTasks": {
+    "description": ""
+  },
+  "commonSuccessToCreateTask": "Success! to create task",
+  "@commonSuccessToCreateTask": {
+    "description": ""
+  },
+  "commonSuccessToUpdateTask": "Success! to update task",
+  "@commonSuccessToUpdateTask": {
+    "description": ""
+  },
+  "commonSuccessToDeleteTask": "Success! to delete task",
+  "@commonSuccessToDeleteTask": {
+    "description": ""
+  },
+  "commonHome": "Home",
+  "@commonHome": {
+    "description": ""
+  },
+  "commonTasks": "Tasks",
+  "@commonTasks": {
+    "description": ""
+  },
+  "commonSettings": "Settings",
+  "@commonSettings": {
+    "description": ""
+  },
+  "commonPublic": "Public",
+  "@commonPublic": {
+    "description": ""
+  },
+  "commonPrivate": "Private",
+  "@commonPrivate": {
+    "description": ""
+  },
+  "commonPending": "Pending",
+  "@commonPending": {
+    "description": ""
+  },
+  "commonAreYouSure": "Are you sure?",
+  "@commonAreYouSure": {
+    "description": ""
+  }
+}

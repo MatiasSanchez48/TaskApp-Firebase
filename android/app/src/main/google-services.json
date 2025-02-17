@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "523128838722",
+    "firebase_url": "https://task-app-f1886-default-rtdb.firebaseio.com",
+    "project_id": "task-app-f1886",
+    "storage_bucket": "task-app-f1886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:8ad7fd3926526c2d04abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.example_firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:a96a13f1aa74e60504abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.example_firebase2.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:115ea9bfbe3c0def04abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.example_firebase2.dev.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:b56611d8c951e12504abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.example_firebase2.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:d4deaa3a3bda498104abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:4e9cc7b9092bbdf504abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523128838722:android:322e42fd9e139bbb04abdb",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_task_app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA39qyt7TJiemP9yWlSaQeiI-n4P6uAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
